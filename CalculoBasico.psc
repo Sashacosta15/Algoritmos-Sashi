@@ -1,8 +1,8 @@
 Algoritmo calculobasico
 	Definir NumX, NumY, Suma, Dif Como Entero
-	Escribir "ingresa el primer número "
+	Escribir "ingresa el primer nÃºmero "
 	leer NumX
-	Escribir"ingresa el segundo número "
+	Escribir"ingresa el segundo nÃºmero "
 	leer NumY
 	suma= NumX + NumY
 	Dif = NumX - NumY
